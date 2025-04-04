@@ -9,9 +9,6 @@ Naive solution to extract text from PDF.
 3. `pixi run python main.py`.
 
 
-```bash
-```
-
 ## Pros
 
 It's really fast to process large dataset.

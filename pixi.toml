@@ -1,0 +1,13 @@
+[project]
+authors = ["mokurin000 <1348292515a@gmail.com>"]
+channels = ["conda-forge"]
+name = "PdfWordKWCount"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.2,<3.14"
+poppler = ">=25.2.0,<26"
+pdftotext = ">=2.2.2,<3"
